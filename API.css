@@ -1,0 +1,23 @@
+body{
+    background-color: dimgray;
+    text-align: center;
+}
+#getDog{
+    background-color: blue;
+    color:white;
+    height:40px;
+    font-size: 20px;
+    border:none;
+    border-radius: 10px;
+    margin:20px;
+}
+#getDog:hover{
+    cursor: pointer;
+}
+img{
+    border-radius: 10px;
+    /* height:300px;
+    width:300px; */
+    box-shadow: 1px 3px 36px 10px white;
+    margin-top: 20px;
+}
